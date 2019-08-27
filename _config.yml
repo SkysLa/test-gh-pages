@@ -3,4 +3,4 @@ name: Amar Mohabir
 markdown: kramdown
 
 #Build Settings
-permalink: /blog/:2019/:08/:24/:amar-test
+#permalink: /blog/:2019/:08/:24/:amar-test
