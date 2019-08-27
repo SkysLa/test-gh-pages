@@ -1,4 +1,5 @@
-	name: Amar Mohabir
-	markdown: kramdown
+#Jekyll config
+name: Amar Mohabir
+markdown: kramdown
 	
-	permalink: /blog/:2019/:08/:24/:amar-test
+permalink: /blog/:2019/:08/:24/:amar-test
